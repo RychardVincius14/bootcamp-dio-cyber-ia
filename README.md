@@ -1,6 +1,6 @@
 # bootcamp-dio-cyber-ia
 markdown
-# Meu aprendizado na DIO
+# Jornada de estudos: Bootcamp Bradesco - GenAI, Dados e Cyber (DIO)
 ## Módulo de Python
 
 
